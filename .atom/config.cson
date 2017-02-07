@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "703ef69b-dcff-704e-1f4b-b387d61787b3"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
